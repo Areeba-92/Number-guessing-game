@@ -24,4 +24,15 @@ A simple Python game where you try to guess the number between 1 and 100 chosen 
 4.Run the game:
    python game.py
 
-<pre> ### Example Output ``` Guess the number from 1 to 100 : 45 higher number please Guess the number from 1 to 100 : 75 lower number please Guess the number from 1 to 100 : 60 .............................. computer choose : 60 you choose : 60 You have Guess the correct no 60 in 3 attempts. ``` </pre>
+ ### Example Output 
+ ```
+Guess the number from 1 to 100 : 45
+higher number please
+Guess the number from 1 to 100 : 75
+lower number please
+Guess the number from 1 to 100 : 60
+..............................
+computer choose : 60
+you choose  : 60
+You have  Guess the correct no 60 in 3 attempts.
+ ```
