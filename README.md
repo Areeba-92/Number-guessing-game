@@ -20,7 +20,7 @@ A simple Python game where you try to guess the number between 1 and 100 chosen 
 2. Clone this repository:
    git clone https://github.com/your-username/number-guessing-game.git
 3.Navigate into the project folder:
-<pre> ```bash cd number-guessing-game ``` </pre>
+ ``` cd number-guessing-game ``` 
 4.Run the game:
    python game.py
 
